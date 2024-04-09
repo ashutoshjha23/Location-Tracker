@@ -22,7 +22,7 @@
     z-index: -1;
 }
 .container{
-    height: 400px;
+    height: 500px;
     width: 500px;
     background-color: rgba(255, 255, 255, 0.1);
     backdrop-filter: blur(30px);
